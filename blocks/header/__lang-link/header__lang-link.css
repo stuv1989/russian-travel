@@ -9,6 +9,7 @@
   font-weight: normal;
   padding: 18px 0 6px;
   text-decoration: none;
+  transition: 1s;
 }
 
 .header__lang-link:last-child {
@@ -16,6 +17,7 @@
 }
 
 .header__lang-link:hover {
+  opacity: 0.3;
   text-decoration-line: underline;
 }
 
